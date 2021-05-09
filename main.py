@@ -1,6 +1,3 @@
-print (  'hello world')
-print (  'hello world')
-print (  'hello world')
-print (  'hello world')
-print (  'hello world')
-input 
+
+q = input ('enter your name')
+print ('hello ', + q)
